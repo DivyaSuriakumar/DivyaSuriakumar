@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divya Suriakumar
 <!--- 👀 I’m interested in --->
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning MERN Stack
 <!--- 💞️ I’m looking to collaborate on ... --->
 - 📫 Reach me on divyasuriakumar@gmail.com
 
